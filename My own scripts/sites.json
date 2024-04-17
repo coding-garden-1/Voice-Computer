@@ -1,0 +1,14 @@
+{
+    "google": {
+        "address": "google.com",
+        "browser": "edge"
+    },
+    "Snapchat": {
+        "address": "snapchat.com",
+        "browser": "edge"
+    },
+    "chatgpt": {
+        "address": "openai.com/chat",
+        "browser": "waterfox"
+    }
+}
