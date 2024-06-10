@@ -1,0 +1,10 @@
+{
+    "edge": {
+        "executable_path": "microsoft-edge-stable",
+        "default": false
+    },
+    "waterfox": {
+        "executable_path": "/home/rose/Documents/waterfox/waterfox",
+        "default": true
+    }
+}
